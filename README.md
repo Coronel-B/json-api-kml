@@ -1,2 +1,2 @@
-# json-api-kmm
-Kotlin Multiplatform Library implementation of a specification for APIs that use JSON.
+# json-api-kml
+A specification for APIs that use JSON in Kotlin Multiplatform Library implementation
